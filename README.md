@@ -1,14 +1,15 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nanawareyash.nanawareyash&left_color=aliceblue&right_color=gray&left_text=   👁️"  />
+  <img src="https://komarev.com/ghpvc/?username=nanawareyash&style=for-the-badge&color=blue"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="262" src="https://media.licdn.com/dms/image/D4D16AQEMGRHXfilIhQ/profile-displaybackgroundimage-shrink_350_1400/0/1692518577299?e=1698278400&v=beta&t=sDIjzKJ34AJdq_wwlAU2nmflzILT8tgpgI8YeB83ErY"  />
+  <img height="262" src="https://media.licdn.com/dms/image/D4D16AQFuSPe66CC4Ww/profile-displaybackgroundimage-shrink_350_1400/0/1692522821376?e=1698278400&v=beta&t=wNqRP6FqAp8Mtk0IN7oVxBYOIp2N0QZn2jytpyQg8YE"  />
 </div>
 
 ###
+### :hammer_and_wrench: Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
@@ -44,31 +45,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow logo"  />
 </div>
 
+
 ###
+### 📈 Profile Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanawareyash&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nanawareyash&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nanawareyash&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nanawareyash" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanawareyash" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username" height="150" alt="languages graph"  />
 </div>
 
+
 ###
+### 📫 Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/nanawareyash" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/iamnanawareyash/" target="_blank">
+    <img src="https://img.shields.io/badge/.com-black?logo=x&logoColor=white&style=for-the-badge" height="31" alt="x.com logo"  />
   </a>
   <a href="mailto:nanawareyash@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/nanawareyash" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-black?logo=hackerrank&logoColor=00e346&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
   </a>
   <a href="https://instagram.com/iamnanawareyash/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/iamnanawareyash/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Instagram-d40683?logo=instagram&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
 </div>
 
