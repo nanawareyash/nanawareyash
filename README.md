@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="262" src="https://media.licdn.com/dms/image/D4D16AQFuSPe66CC4Ww/profile-displaybackgroundimage-shrink_350_1400/0/1692522821376?e=1698278400&v=beta&t=wNqRP6FqAp8Mtk0IN7oVxBYOIp2N0QZn2jytpyQg8YE"  />
+  <img height="262" style="width:100%" src="/header.jpeg"  />
 </div>
 
 # About
